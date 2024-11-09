@@ -1,23 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
+import SideBar from '../src/assets/components/SideBar';
+import Quiz from '../src/assets/components/Quiz';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="App-container">
+        <div className='Left-content'>
+          <SideBar />
+        </div>
+        <div className='Right-content'>
+          <div className='Main-content'>
+            <Quiz />
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

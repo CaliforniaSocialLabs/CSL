@@ -1,0 +1,394 @@
+[
+    {
+      "Q1": [
+        {
+          "question": "Which of the following is NOT a key principle of maintaining research integrity?",
+          "choices": {
+            "A": "Maintaining high standards in own work",
+            "B": "Actively mitigating conscious and unconscious biases",
+            "C": "Prioritizing personal gain over scientific advancement",
+            "D": "Admitting and correcting errors"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "Q2": [
+        {
+          "question": "What is the primary responsibility of research institutions in promoting research integrity?",
+          "choices": {
+            "A": "Enforcing strict policies and procedures",
+            "B": "Creating an environment that values ethical research",
+            "C": "Providing training on research ethics",
+            "D": "Investigating allegations of misconduct"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "Q3": [
+        {
+          "question": "What is the primary benefit of researchers promptly addressing concerns about questionable research practices?",
+          "choices": {
+            "A": "Avoiding potential legal repercussions",
+            "B": "Protecting the reputation of the researcher",
+            "C": "Maintaining the trustworthiness of research findings",
+            "D": "Ensuring that the research is published quickly"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "Q4": [
+        {
+          "question": "Why is it important for researchers to seek counsel from trusted senior researchers or mentors before lodging a formal allegation?",
+          "choices": {
+            "A": "To gather evidence to support the allegation",
+            "B": "To ensure that the allegation is legally sound",
+            "C": "To gain insights and guidance on interpreting policies",
+            "D": "To avoid facing retaliation from the accused researcher"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "Q5": [
+        {
+          "question": "Why is it important for researchers to provide fair and generous feedback to their peers?",
+          "choices": {
+            "A": "To foster a positive and collaborative research environment",
+            "B": "To ensure that all research is done quickly",
+            "C": "To avoid potential conflicts of interest",
+            "D": "To protect the reputation of the research community"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "Q6": [
+        {
+          "question": "What is the primary reason why a data management and sharing plan is essential for responsible research?",
+          "choices": {
+            "A": "To ensure that data is properly stored and organized",
+            "B": "To facilitate collaboration and reproducibility of research",
+            "C": "To comply with legal and regulatory requirements",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "Q7": [
+        {
+          "question": "Why is it important to incorporate appropriate statistical and analytical expertise into a research project team?",
+          "choices": {
+            "A": "To ensure the accuracy and reliability of data analysis",
+            "B": "To help with the collection and organization of data",
+            "C": "To avoid the misuse of statistical techniques",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "Q8": [
+        {
+          "question": "What is the primary benefit of data sharing in research?",
+          "choices": {
+            "A": "Increased funding opportunities",
+            "B": "Enhanced collaboration and reproducibility",
+            "C": "Greater public appreciation of research",
+            "D": "Reduced costs associated with data collection"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "Q9": [
+        {
+          "question": "What is a key reason why transparency in authorship practices is essential for research integrity?",
+          "choices": {
+            "A": "To ensure that all authors receive appropriate credit for their contributions",
+            "B": "To prevent the misuse of research findings by others",
+            "C": "To protect the reputation of the research community",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "Q10": [
+        {
+          "question": "What is the primary responsibility of authors in research publications?",
+          "choices": {
+            "A": "To ensure that the research is original and innovative",
+            "B": "To guarantee the accuracy and reliability of the published results",
+            "C": "To promote the research findings to the public",
+            "D": "To obtain funding for future research projects"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "Q11": [
+        {
+          "question": "What is the primary role of a mentor in fostering research integrity among trainees?",
+          "choices": {
+            "A": "Providing guidance on data handling, authorship, and communication",
+            "B": "Ensuring that trainees adhere to all research regulations",
+            "C": "Helping trainees to publish their research findings",
+            "D": "Protecting trainees from making mistakes"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "Q12": [
+        {
+          "question": "Why is regular checking of subordinates' work and ensuring adherence to best practices important for mentors?",
+          "choices": {
+            "A": "To ensure that research is conducted ethically and responsibly",
+            "B": "To identify and address potential data issues early on",
+            "C": "To prevent the misuse of research findings",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "Q13": [
+        {
+          "question": "What is the primary reason why peer reviewers should disclose any conflicts of interest?",
+          "choices": {
+            "A": "To ensure the fairness and transparency of the review process",
+            "B": "To protect the reviewer from potential legal action",
+            "C": "To avoid being accused of plagiarism",
+            "D": "To allow the program officer or editor to choose a different reviewer"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "Q14": [
+        {
+          "question": "What is the primary reason why research institutions must enforce regulations related to handling sensitive data?",
+          "choices": {
+            "A": "To protect the privacy of research participants",
+            "B": "To ensure the security of research findings",
+            "C": "To comply with legal and ethical standards",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "Q15": [
+        {
+          "question": "What is the primary purpose of Institutional Review Boards (IRBs) and Institutional Animal Care and Use Committees (IACUCs)?",
+          "choices": {
+            "A": "To ensure that research is conducted ethically and responsibly",
+            "B": "To protect the rights and welfare of human subjects and animals",
+            "C": "To regulate the use of research funds",
+            "D": "All of the above"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "Q16": [
+        {
+          "question": "What is the primary reason why research institutions must enforce regulations related to human subjects, animals, the environment, and hazardous substances?",
+          "choices": {
+            "A": "To ensure that research is conducted ethically and responsibly",
+            "B": "To protect the safety of researchers and the public",
+            "C": "To comply with legal requirements and avoid penalties",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "Q17": [
+        {
+          "question": "What is the key distinction between gender harassment and other forms of sexual harassment?",
+          "choices": {
+            "A": "Gender harassment is based on gender stereotypes and biases",
+            "B": "Gender harassment is more subtle and less severe",
+            "C": "Gender harassment only affects women",
+            "D": "Gender harassment is not considered a form of sexual harassment"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "Q18": [
+        {
+          "question": "What distinguishes unwanted sexual attention from sexual coercion?",
+          "choices": {
+            "A": "Unwanted sexual attention does not involve a power differential",
+            "B": "Unwanted sexual attention is less serious than sexual coercion",
+            "C": "Unwanted sexual attention is always physical in nature",
+            "D": "Unwanted sexual attention is not considered a form of sexual harassment"
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "Q19": [
+        {
+          "question": "Why is it difficult to accurately quantify the prevalence of sexual harassment in academia?",
+          "choices": {
+            "A": "Victims are often reluctant to report incidents",
+            "B": "There is no standardized definition of sexual harassment",
+            "C": "Data collection methods are inconsistent across studies",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "Q20": [
+        {
+          "question": "What is a significant impact of sexual harassment on the professional well-being of victims?",
+          "choices": {
+            "A": "Increased job satisfaction and organizational commitment",
+            "B": "Improved productivity and career advancement",
+            "C": "Decreased job satisfaction and increased job stress",
+            "D": "Reduced absenteeism and improved mental health"
+          },
+          "correct_answer": "C"
+        }
+      ]
+    },
+    {
+      "Q21": [
+        {
+          "question": "Which of the following factors exacerbates the impact of sexual harassment?",
+          "choices": {
+            "A": "Frequency, intensity, and duration of harassment",
+            "B": "Power dynamics between the harasser and victim",
+            "C": "Intersectionality of multiple forms of discrimination",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "Q22": [
+        {
+          "question": "What is a primary limitation of the existing legal system in addressing sexual harassment?",
+          "choices": {
+            "A": "It primarily focuses on preventing sexual coercion",
+            "B": "It relies heavily on victims to report incidents",
+            "C": "It lacks mechanisms for addressing systemic issues",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "Q23": [
+        {
+          "question": "What is a key strategy for diffusing power structures and reducing isolation in academic settings to mitigate sexual harassment?",
+          "choices": {
+            "A": "Encouraging mentorship programs",
+            "B": "Promoting open communication and dialogue",
+            "C": "Creating multiple avenues for reporting harassment",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "Q24": [
+        {
+          "question": "What is the primary difference between reproducibility and replicability in research?",
+          "choices": {
+            "A": "Reproducibility focuses on replicating the same results using the same data and methods, while replicability involves obtaining similar results with new data.",
+            "B": "Reproducibility is about verifying the accuracy of data, while replicability is about validating the scientific findings.",
+            "C": "Reproducibility is easier to achieve than replicability.",
+            "D": "Reproducibility is only applicable to computational studies, while replicability applies to all types of research."
+          },
+          "correct_answer": "A"
+        }
+      ]
+    },
+    {
+      "Q25": [
+        {
+          "question": "What is a primary challenge to reproducibility in computational research?",
+          "choices": {
+            "A": "The complexity of computational methods",
+            "B": "The lack of transparency in reporting research methods",
+            "C": "The difficulty of replicating computational environments",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "Q26": [
+        {
+          "question": "Which of the following is NOT a factor that can affect the replicability of research findings?",
+          "choices": {
+            "A": "Inherent uncertainties in the system being studied",
+            "B": "Researcher choices in data cleaning and analysis",
+            "C": "Publication bias favoring statistically significant results",
+            "D": "The use of advanced statistical methods"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    },
+    {
+      "Q27": [
+        {
+          "question": "Which of the following is NOT a recommended practice for improving reproducibility and replicability in research?",
+          "choices": {
+            "A": "Encouraging researchers to share their data and code",
+            "B": "Prioritizing the publication of positive results",
+            "C": "Implementing stricter guidelines for journals and funding agencies",
+            "D": "Providing training in statistical methods and reproducibility"
+          },
+          "correct_answer": "B"
+        }
+      ]
+    },
+    {
+      "Q28": [
+        {
+          "question": "What is a key reason why public understanding of the scientific process is crucial for fostering trust in science?",
+          "choices": {
+            "A": "It helps the public to identify reliable sources of information",
+            "B": "It allows the public to evaluate the strengths and limitations of scientific findings",
+            "C": "It encourages the public to participate in scientific research",
+            "D": "All of the above"
+          },
+          "correct_answer": "D"
+        }
+      ]
+    }
+  ]
